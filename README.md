@@ -34,7 +34,7 @@ The notebook includes:
 - **Insights**:
   - Trainer 1079218 has the highest win rate despite lower horse volume
   - Majority of horses are aged 3–5
-  - Horse colour ‘b’ is dominant — possibly due to breeding or preference
+  - Horse colour ‘b’ is dominant -> possibly due to breeding or preference
 
 ---
 
