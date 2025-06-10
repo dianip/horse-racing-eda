@@ -11,7 +11,7 @@ This project performs exploratory data analysis (EDA) on a horse racing dataset 
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - Python (Jupyter Notebook, run via PyCharm)
 - pandas, numpy
